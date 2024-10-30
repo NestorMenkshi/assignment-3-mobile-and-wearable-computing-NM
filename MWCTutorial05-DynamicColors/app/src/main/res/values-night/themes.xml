@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.StepAppV5" parent="Theme.Material3.Dark.NoActionBar">
+    </style>
+</resources>
